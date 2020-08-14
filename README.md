@@ -25,3 +25,12 @@ npm test
 ```sh
 npm run storybook
 ```
+## Screenshots
+
+![Page with scheduled interviews](https://github.com/KapoorManvi/scheduler/blob/master/docs/Screen%20Shot%202020-08-13%20at%2010.33.16%20PM.png?raw=true)
+
+![Editing an interview](https://github.com/KapoorManvi/scheduler/blob/master/docs/Screen%20Shot%202020-08-13%20at%2010.34.03%20PM.png?raw=true)
+
+![Saving an edited interview](https://github.com/KapoorManvi/scheduler/blob/master/docs/Screen%20Shot%202020-08-13%20at%2010.34.27%20PM.png?raw=true)
+
+![Delete interview](https://github.com/KapoorManvi/scheduler/blob/master/docs/Screen%20Shot%202020-08-13%20at%2010.36.00%20PM.png?raw=true)
